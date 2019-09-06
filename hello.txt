@@ -1,4 +1,7 @@
-//For commatn
+//For command line git
+//Local repository modification
+//GitHub modification
+
 print("hello world");
-print("Tell Your World");
-Print("Tell her world")
+print("Tell your world");
+print("Tell her World");:
